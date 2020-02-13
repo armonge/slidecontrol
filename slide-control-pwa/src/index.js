@@ -17,7 +17,7 @@
  * If not, see <https://www.gnu.org/licenses/>.
  */
 
-import './style/index.scss';
-import App from './components/app';
+import "./style/index.scss";
+import App from "./components/app";
 
 export default App;

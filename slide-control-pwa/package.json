@@ -20,10 +20,10 @@
     "build/*"
   ],
   "devDependencies": {
-    "eslint": "^4.9.0",
-    "eslint-config-synacor": "^2.0.2",
+    "eslint": "^6.8.0",
+    "eslint-config-synacor": "^3.0.5",
     "identity-obj-proxy": "^3.0.0",
-    "jest": "^24.1.0",
+    "jest": "^25.1.0",
     "per-env": "^1.0.2",
     "preact-cli": "^2.1.0",
     "preact-render-spy": "^1.2.1"
@@ -31,10 +31,10 @@
   "dependencies": {
     "node-sass": "^4.11.0",
     "postcss-preset-env": "^6.5.0",
-    "preact": "^8.2.6",
+    "preact": "^10.3.1",
     "preact-compat": "^3.17.0",
-    "preact-router": "^2.5.7",
+    "preact-router": "^3.2.1",
     "qr-scanner": "^1.0.0",
-    "sass-loader": "^7.1.0"
+    "sass-loader": "^7.3.1"
   }
 }
